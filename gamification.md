@@ -26,6 +26,11 @@ Available materials
 	4k$/m3 400Mpa steel
 	4k$/m3 500Mpa fiberglass
 	4k$/m3 2Gpa plastic fibre
+Available fastening and protection
+	200$/m3 PS+toluene
+	1k$/m3 oil derivatives
+	5k$/m3 epoxy
+	15k$/m3 wood treatment
 Available tech
 	Platforms
 		1k$ concrete floating spheres with concrete slab 
