@@ -8,9 +8,14 @@ Second task
 	Get potable water and electrics
 Starting resources
 	1 worker (that doesnt ask for food/water)
-	1000$
+	1k$
 	10 sq m platform
 	petrol generator, handheld power tools
+Available actions
+	1k$ relocate one worker closer to another
+	1k$ start youtube channel to get attention
+	1k$ register a charity to raise funds
+	1k$ make a game for people to vote for actions
 Available materials
 	50$/m3 40Mpa palleta
 	100$/m3 4Mpa concrete
@@ -43,7 +48,7 @@ Available tech
 		100$ 100kj/kg reverse osmosis
 		100$ 400kj/kg membrane distillation
 		1k$ 100kj/kg turbine distilation
-	Misc
+	Other Utilities
 		100k$ escape boat, to ship away people in storm
 		100k$ harbor, to accept other ships for trade
 ~~~~
