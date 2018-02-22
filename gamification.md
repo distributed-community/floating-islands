@@ -43,4 +43,7 @@ Available tech
 		100$ 100kj/kg reverse osmosis
 		100$ 400kj/kg membrane distillation
 		1k$ 100kj/kg turbine distilation
+	Misc
+		100k$ escape boat, to ship away people in storm
+		100k$ harbor, to accept other ships for trade
 ~~~~
