@@ -49,10 +49,11 @@ Available tech
 		Wind
 			1k$ windmill on a mast
 			10k$ flying windmill
-	Potable water
-		100$ 100kj/kg reverse osmosis
-		100$ 400kj/kg membrane distillation
+	Potable water for 1t/day 
+		1k$ 100kj/kg reverse osmosis
+		1k$ 400kj/kg membrane distillation
 		1k$ 100kj/kg turbine distilation
+		1k$ ?kj/kg atmospheric water net condenser
 	Other Utilities
 		100k$ escape boat, to ship away people in storm
 		100k$ harbor, to accept other ships for trade
