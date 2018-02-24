@@ -31,6 +31,7 @@ Available fastening and protection
 	1k$/m3 oil derivatives
 	5k$/m3 epoxy
 	15k$/m3 wood treatment
+	4k$/m3 glass fiber tie
 Available tech
 	Platforms
 		1k$ concrete floating spheres with concrete slab 
@@ -40,6 +41,18 @@ Available tech
 		100k$ concrete cylinder that floats vertically
 		100k$ cowboy hat shaped module
 		1kk$ classic oil rig platform
+	Roofs
+		sierpinski pyramid
+			+rebuild, +lots of strength, -expensive
+		inflatable dome
+		 +cheap, +mirror/transparent
+		geodesic dome
+			+strength
+	Wave protection
+		deep bouyoncy blocks on a rope in truss
+			+replace +cheap
+		massive concrete solid structure
+			+collision protection, -expensive
 	Energy
 		Sun
 			10$ 1w/$ PV
