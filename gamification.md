@@ -17,21 +17,26 @@ Available actions
 	1k$ register a charity to raise funds
 	1k$ make a game for people to vote for actions
 Available materials
-	50$/m3 40Mpa palleta
+	50$/m3 40Mpa pallets
 	100$/m3 4Mpa concrete
 	200$/m3 80Mpa bamboo
 	1k$/m3 60Mpa timber
 	2k$/m3 100Mpa plastic
 	4k$/m3 100Mpa aluminium
 	4k$/m3 400Mpa steel
-	4k$/m3 500Mpa fiberglass
-	4k$/m3 2Gpa plastic fibre
-Available fastening and protection
+	4k$/m3 500Mpa plastic fibre
+	4k$/m3 2Gpa fiberglass
+Available fasteners
+	1k$/m3 wood locks
+		-very heavy, mass*3
+	4k$/m3 400Mpa bolts/nails/screws
+	4k$/m3 2Gpa glass fiber tie under high tension
+		-untested tech needs RnD
+Available protection
 	200$/m3 PS+toluene
 	1k$/m3 oil derivatives
 	5k$/m3 epoxy
-	15k$/m3 wood treatment
-	4k$/m3 glass fiber tie
+	15k$/m3 wood treatment professional
 Available tech
 	Platforms
 		1k$ concrete floating spheres with concrete slab 
@@ -48,12 +53,17 @@ Available tech
 		 +cheap, +mirror/transparent
 		geodesic dome
 			+strength
+		mostly underwater concrete structure
+		 -very expensive
 	Wave protection
-		deep bouyoncy blocks on a rope in truss
-			+replace +cheap
+		deep bouyoncy blocks on a rope in high truss
+			+replacable +cheap
 		massive concrete solid structure
-			+collision protection, -expensive
-	Energy
+			+collision protection, -very expensive
+	Roads
+		12m*2.4m modules, 10% given for roads
+		each 12m*12m module has perimeter pedestrain zone  
+Energy
 		Sun
 			10$ 1w/$ PV
 			100$ 10w/$ evacuated tubes
