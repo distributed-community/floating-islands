@@ -12,4 +12,4 @@ Also based components mass production make them cheaper, and open standards help
 ## What`s the differnce from Seasteading?
 
 [Seasteading institute](https://www.seasteading.org/) is the most famous company in this area.
-But it\`s very closed organization. They planned to built first floating town in French Polynesia this (2018) year, but you can\`t find only small document about environmental pollution and few strange renders.
+But it\`s very closed organization. They planned to built first floating town in French Polynesia this (2018) year, but you can find only small document about environmental pollution and few strange renders.
