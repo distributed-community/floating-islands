@@ -22,8 +22,12 @@ Available main materials (beam or slab)
 		+200$ 40h treatment
 	1k$/m3 60Mpa timber
 		+200$ 40h treatment
-	2k$/m3 100Mpa plastic
-		+200h 3h paint anti UV
+	200$/m3 50Mpa plastic recycled
+		+1kh/m3, +40k$ capital investments
+	500$/m3 50Mpa plastic secondary
+		+1kh/m3, +5k$ capital investments
+	1.2k$/m3 100Mpa plastic granules
+		+1kh/m3, +3k$ capital investments
 	4k$/m3 100Mpa aluminium
 		+200$ 3h paint anti rust
 	4k$/m3 400Mpa steel
@@ -50,11 +54,13 @@ Available protection(per 1m3 of main material)
 	1k$/m3 wood treatment professional
 
 Mass of material to support 1t of bouyoncy
-	10t concrete box
-	3t concrete barrel
-	1t wooden box
-	0.3t wooden barrel
-	0.1t plastic/metal/fiberglass barrel
+	12t ice
+	10t fat
+	2t concrete box
+	1t concrete barrel
+	0.2t wooden box
+	0.1t wooden barrel
+	0.05t plastic/metal/fiberglass barrel
 
 Mass of material for 1t on a 10m flat bridge
 	60t concrete
