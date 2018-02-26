@@ -23,11 +23,11 @@ Available main materials (beam or slab)
 	1k$/m3 60Mpa timber
 		+200$ 40h treatment
 	200$/m3 50Mpa plastic recycled
-		+1kh/m3, +40k$ capital investments
+		+160h, +100k$ capital investments
 	500$/m3 50Mpa plastic secondary
-		+1kh/m3, +5k$ capital investments
+		+1000h, +5k$ capital investments
 	1.2k$/m3 100Mpa plastic granules
-		+1kh/m3, +3k$ capital investments
+		+1000h, +3k$ capital investments
 	4k$/m3 100Mpa aluminium
 		+200$ 3h paint anti rust
 	4k$/m3 400Mpa steel
