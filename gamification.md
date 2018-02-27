@@ -103,13 +103,13 @@ Energy
 		10k$ 1w/$ flying windmill
 
 Potable water for 3m3/month 
-	1k$ 100kj/kg reverse osmosis
+	1k$ 3kj/kg reverse osmosis
 	1k$ 400kj/kg membrane distillation
-	1k$ 100kj/kg turbine distilation
-	1k$ ?kj/kg atmospheric water net condenser
-	1k$ 100j/kg wedge wire screen
+	1k$ 100kj/kg water compression evaporator
+	1k$ atmospheric water net condenser
+	1k$ 0.1kj/kg wedge wire screen
 		1kt per day, 75 micron solids, 30k people
-	1k$ 0kj/kg rain collection
+	1k$ rain collection
 		50sqm per person
 	1k$ 400j/kg acid/base + ionexchange buffer
 Other Utilities
