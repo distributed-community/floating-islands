@@ -111,6 +111,7 @@ Potable water for 3m3/month
 		1kt per day, 75 micron solids, 30k people
 	1k$ 0kj/kg rain collection
 		50sqm per person
+	1k$ 400j/kg acid/base + ionexchange buffer
 Other Utilities
 	100k$ escape boat, to ship away people in storm
 	100k$ harbor, to accept other ships for trade
