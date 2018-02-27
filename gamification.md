@@ -1,4 +1,4 @@
-# Floating Islands
+ Floating Islands
 ~~~~
 Mission Goal
 	Achieve 1000 population
@@ -53,9 +53,8 @@ Available protection(per 1m3 of main material)
 	300$/m3 epoxy
 	1k$/m3 wood treatment professional
 
-Mass of material to support 1t of bouyoncy
-	12t ice
-	10t fat
+Volume of material to support 1t of bouyoncy
+	10t ice/fat
 	2t concrete box
 	1t concrete barrel
 	0.2t wooden box
@@ -66,6 +65,11 @@ Mass of material for 1t on a 10m flat bridge
 	60t concrete
 	2t wood
 	1t plastic/metal/fiberglass
+
+Drag of various shapes at Re=10^6
+	box 1.4
+	sphere 0.4
+	airfoil 0.01
 
 Roofs
 	sierpinski pyramid
@@ -98,12 +102,15 @@ Energy
 		1k$ 1w/$ windmill on a mast
 		10k$ 1w/$ flying windmill
 
-Potable water for 1t/day 
+Potable water for 3m3/month 
 	1k$ 100kj/kg reverse osmosis
 	1k$ 400kj/kg membrane distillation
 	1k$ 100kj/kg turbine distilation
 	1k$ ?kj/kg atmospheric water net condenser
-	
+	1k$ 100j/kg wedge wire screen
+		1kt per day, 75 micron solids, 30k people
+	1k$ 0kj/kg rain collection
+		50sqm per person
 Other Utilities
 	100k$ escape boat, to ship away people in storm
 	100k$ harbor, to accept other ships for trade
