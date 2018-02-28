@@ -12,7 +12,8 @@ Option 1:
 * compartments for barrels instead of a rope
 * heavy landing gear
 * construction from a small platform
-* 600$ steel 100$ work
+* 400$ steel 100$ work 600$ barrels 
+* 7t bouyoncy
 * about 25 sqm
 
 Option 2:
@@ -25,16 +26,18 @@ Option 2:
 * compartments for barrels instead of a rope
 * heavy landing gear
 * construction from a small platform
-* 100$ wood and paint 300$ tools 600$ work
+* 100$ materials 300$ tools 600$ work 600$ barrels
+* 6t bouyoncy
 * about 25 sqm
 
 Option 3:
 * concrete solid frame
 * concrete as a glue for connecting modules
-* crane area size (under 4t, 4x8m)
+* crane area size (under 3t, 4x8m)
 * treated with polysterene+toluene+ZnO
 * voinds in concrete for floaters
 * heavy landing gear
 * construction from a rented marine near crane
 * 100$ crane 400$ rent 200$ concrete 200$ work
-* smallest one, about 8sqm 
+* 3t bouyoncy
+* about 8sqm 
