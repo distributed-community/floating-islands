@@ -103,7 +103,8 @@ Energy
 		10k$ 1w/$ flying windmill
 
 Potable water for 3m3/month 
-	1k$ 3kj/kg reverse osmosis
+	50$ 3kj/kg reverse osmosis
+		+100kj/kg price equivalent for filters
 	1k$ 400kj/kg membrane distillation
 	1k$ 100kj/kg water compression evaporator
 	1k$ atmospheric water net condenser
