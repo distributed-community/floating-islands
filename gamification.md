@@ -53,6 +53,16 @@ Available protection(per 1m3 of main material)
 	300$/m3 epoxy
 	1k$/m3 wood treatment professional
 
+Bouyoncy options
+	75$/t barrels
+		+standard
+	100$/t concrete hull
+		-expensive facilities
+	30$/t prestressed sphere on rebar mold 1/2
+		-very expetimental
+	40$/t prestressed sphere with rebar struct
+		-very expetimental, +more strength
+
 Volume of material to support 1t of bouyoncy
 	10t ice/fat
 	2t concrete box
