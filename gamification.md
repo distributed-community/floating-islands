@@ -1,40 +1,40 @@
-Floating Islands
+#Floating Islands
 ~~~~
 Mission Goal
-Achieve 1000 population
+	Achieve 1000 population
 First task
-Build a prototype platform of 25sq m or more
+	Build a prototype platform of 25sq m or more
 Second task
-Get potable water and electrics
+	Get potable water and electrics
 
-	Starting resources
-1 worker (100 hours of work)
+Starting resources
+	1 worker (100 hours of work)
 	1000$
 	10 sq m platform
 	petrol generator, handheld power tools
 
 Available main materials (beam or slab)
 	50$/m3 40Mpa pallets
-	+20$ 40h dismantle, +200$ 40h treatment
+		+20$ 40h dismantle, +200$ 40h treatment
 	100$/m3 4Mpa concrete
-	+30$ 3h rebar/fibre, +30$ 3h mold
+		+30$ 3h rebar/fibre, +30$ 3h mold
 	200$/m3 80Mpa bamboo
-	+200$ 40h treatment
+		+200$ 40h treatment
 	1k$/m3 60Mpa timber
-	+200$ 40h treatment
+		+200$ 40h treatment
 	200$/m3 50Mpa plastic recycled
-	+160h, +100k$ capital investments
+		+160h, +100k$ capital investments
 	500$/m3 50Mpa plastic secondary
-	+1000h, +5k$ capital investments
+		+1000h, +5k$ capital investments
 	1.2k$/m3 100Mpa plastic granules
-	+1000h, +3k$ capital investments
+		+1000h, +3k$ capital investments
 	4k$/m3 100Mpa aluminium
-	+200$ 3h paint anti rust
+		+200$ 3h paint anti rust
 	4k$/m3 400Mpa steel
-	+200$ 3h paint, +200$ 10h zinc protection
+		+200$ 3h paint, +200$ 10h zinc protection
 	4k$/m3 500Mpa plastic fibre
 	4k$/m3 2Gpa fiberglass
-	+4k$ 20h epoxy, +100$ 5h mold, +200$ 3h paint
+		+4k$ 20h epoxy, +100$ 5h mold, +200$ 3h paint
 
 Available fasteners(per 1m3 of main material)
 	material*3 h $/m3 wedge locks
@@ -53,17 +53,19 @@ Available protection(per 1m3 of main material)
 	300$/m3 epoxy
 	1k$/m3 wood treatment professional
 
-	Bouyoncy options
-	75$/t barrels
-	+standard
-	100$/t concrete hull
-	-expensive facilities
-	30$/t prestressed sphere on rebar mold 1/2
-	-very expetimental
-	40$/t prestressed sphere with rebar struct
-	-very expetimental, +more strength
+Bouyoncy options
+	75$/t plastic barrels
+		+standard
+	300$/t concrete hull
+		-expensive facilities -cant be done small
+	150$/t prestressed sphere on rebar mold 1/2
+		-very expetimental
+	150$/t prestressed sphere with rebar struct
+		-very expetimental, +more strength
+	welded metal barrels
+		-need perfect rust protection
 
-	Volume of material to support 1t of bouyoncy
+Volume of material to support 1t of bouyoncy
 	10t ice/fat
 	2t concrete box
 	1t concrete barrel
@@ -71,32 +73,33 @@ Available protection(per 1m3 of main material)
 	0.1t wooden barrel
 	0.05t plastic/metal/fiberglass barrel
 
-	Mass of material for 1t on a 10m flat bridge
+Mass of material for 1t on a 10m flat bridge
 	60t concrete
 	2t wood
 	1t plastic/metal/fiberglass
 
-	Drag of various shapes at Re=10^6
+Drag of various shapes at Re=10^6
 	box 1.4
+	wedge 0.7
 	sphere 0.4
-	airfoil 0.01
+	airfoil 0.1
 
-	Roofs
+Roofs
 	sierpinski pyramid
-	+rebuild, +lots of strength, -expensive
+		+rebuild, +lots of strength, -expensive
 	inflatable dome
-	+cheap, +mirror/transparent
+		+cheap, +mirror/transparent
 	geodesic dome
-	+strength
+		+strength
 	monolithic simple shape
-	+build, -logistics,  -repair
+		+build, -logistics,  -repair
 
-	Wave protection
+Wave protection
 	open elevated structure with exposed trusses
-	+replacable, +cheap, +low drag/wave motion
+		+replacable, +cheap, +low drag/wave motion
 		6k$/person
 	solid structure with a thick shell
-	+collision protection, -expensive
+		+collision protection, -expensive
 		30k$/person
 	fragmented truss with deep water anchor
 		30k$/person
@@ -104,33 +107,36 @@ Available protection(per 1m3 of main material)
 		100k$/person
 	huge floating concrete wall breakwater
 		1kk$/person
-	Roads
+
+Roads
 	1-10% of modules fully designated as roads
 	1-10% of surface of every module for roads
 
-	Energy
+Energy
 	Sun
-	10$ 1w/$ PV
-	100$ 10Wheat/$ evacuated tubes
-	10k 1w/$+10Wheat/$ algae grown for fuel
-	1k 1w/$+10Wheat/$ through+mirrors+turbine
-	100k 1w/$+10Wheat/$ tower+mirrors+turbine
+		10$ 1w/$ PV
+		100$ 10Wheat/$ evacuated tubes
+		10k 1w/$+10Wheat/$ algae grown for fuel
+		1k 1w/$+10Wheat/$ through+mirrors+turbine
+		100k 1w/$+10Wheat/$ tower+mirrors+turbine
 	Wind
-	1k$ 1w/$ windmill on a mast
-	10k$ 1w/$ flying windmill
+		1k$ 1w/$ windmill on a mast
+		10k$ 1w/$ flying windmill
 
-	Potable water for 3m3/month 
+Potable water for 3m3/month 
 	50$ 3kj/kg reverse osmosis
-	+100kj/kg price equivalent for filters
+		+100kj/kg price equivalent for filters
 	1k$ 400kj/kg membrane distillation
 	1k$ 100kj/kg water compression evaporator
 	1k$ atmospheric water net condenser
 	1k$ 0.1kj/kg wedge wire screen
 	1kt per day, 75 micron solids, 30k people
 	1k$ rain collection
-	50sqm per person
+		50sqm per person
 	1k$ 400j/kg acid/base + ionexchange buffer
-	Other Utilities
+
+Other Utilities
 	100k$ escape boat, to ship away people in storm
 	100k$ harbor, to accept other ships for trade
-	~~~~
+~~~~
+
