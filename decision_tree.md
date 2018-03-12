@@ -1,0 +1,175 @@
+~~~~
+# Decision tree
+
+On each step a decision is taken, all but one options are eventually rejected and all further decision are based on taken decision.
+
+Independent decision that do not follow from previous ones are shown as separate branches, with their own title and branch numbers.
+
+## Structure
+
+1) Material
+	50$/m3 40Mpa pallets
+		+20$ 40h dismantle, +200$ 40h treatment
+	100$/m3 4Mpa concrete
+		+30$ 3h rebar/fibre, +30$ 3h mold
+	200$/m3 80Mpa bamboo
+		+200$ 40h treatment
+	1k$/m3 60Mpa timber
+		+200$ 40h treatment
+	200$/m3 50Mpa plastic recycled
+		+160h, +100k$ capital investments
+	500$/m3 50Mpa plastic secondary
+		+1000h, +5k$ capital investments
+	1.2k$/m3 100Mpa plastic granules
+		+1000h, +3k$ capital investments
+	4k$/m3 100Mpa aluminium
+		+200$ 3h paint anti rust
+	4k$/m3 400Mpa steel
+		+200$ 3h paint, +200$ 10h zinc protection
+	4k$/m3 500Mpa plastic fibre
+	4k$/m3 2Gpa fiberglass
+		+4k$ 20h epoxy, +100$ 5h mold, +200$ 3h paint
+Decision: Steel
+Reason: price, capital investments, time
+
+2)	Fasteners to join beams/slabs together
+	material*3 h $/m3 wedge locks
+	100$/m3 30h polyprop strapping
+	30$/m3 20h glass fiber strapping
+	1k$/m3 10h bolts
+	100$/m3 4h welding
+Decision: Weld
+Reason: Price, well tested, creep, time, hermetical seal
+
+Decision: bolts
+Reason: simplicity, creep, time
+
+3) Protection (per 1m3 of main material)
+	10$/m3 paint, PS+toluene
+	100$/m3 oil derivatives
+	300$/m3 epoxy
+	4$/m3 zinc anodes
+	40$/m3 zinc electroplating
+Decision: paint + zinc anodes
+Reason: price, well tested, environment, time
+
+4) Bouyoncy
+	75$/t plastic barrels
+		+standard
+	100$/t single hull
+		-expensive facilities -cant be done small
+	150$/t prestressed sphere on rebar mold 1/2
+		-very expetimental
+	150$/t prestressed sphere with rebar struct
+		-very expetimental, +more strength
+	20$/t welded steel floats
+		-need perfect rust protection
+Decision: plastic barrels, later welded floats
+Reason: quick start, price, time, work, facilities
+
+5) Superstructure
+	sierpinski pyramid
+		+rebuild, +best strength, +price, -aesthetic
+	inflatable dome
+		+best price, +mirror/transparent, -waves
+	geodesic dome
+		+strength, +aesthetic, -price
+	monolithic simple shape
+		+build, -logistics, -repair, -worst price
+	flat, modules with flexible joints
+		+best rebuild, +price, -waves
+Decision: sierpinski pyramid
+Reason: price, wave protection
+
+Decision: flat
+Reason: aethetics, rebuild
+
+6) Wave protection
+	elevated sttucture with exposed trusses
+		+replacable, +waves, +mobility, -aesthetics
+		10k$/person
+	structure wall
+		+collision protection, +mobility
+		30k$/person
+	separate fragmented truss breakwater
+		30k$/person, +rebuild
+	separate monolithic truss breakwater
+		100k$/person, -aesthetics
+	separate solid wall breakwater
+		1kk$/person
+	pneumatic active breakwater
+		10k$/person, 100$/person per day of storm
+	moonpools as absorbers
+		10k$/person, generate energy 10$/person/day
+	no wave protection
+		-30% population	and their relatives
+Decision: elevated structure
+Reason: price, rebuild, mobility
+
+Decision: separate fragmented truss breakwater
+Reason: aestetics, rebuild
+
+Decision: pneumatic + structure wall
+Reason: best protection, mobility
+
+7) Floats type
+	hermetically sealed deep floats
+		No wave reaction, no wave hits, cost x3
+	moonpools
+		reverse wave reaction, no wave hits, cost x1
+	hermetically sealed surface floats
+		direct wave reaction, cost x1
+Decision: 45% moonpools and 55% surface floats
+Reason: price, static stability
+
+Decision: 100% moonpools with dynamic control
+Reason: best price, best wave cancellation
+
+Decision: 90% deep floats 10% surface floats
+Reason: best static stability
+
+## Infrastructure
+
+1) Potable water, capital investments(>3m3/mo) 
+	30$ 3kj/kg reverse osmosis
+		+100kj/kg price equivalent for filters
+		+10kj/kg when rain water is used
+	1k$ 400kj/kg membrane distillation
+	1k$ 100kj/kg water compression evaporator
+		+gives almost free waste disposal
+	10k$ atmospheric water net condenser
+	1k$ 0.1kj/kg wedge wire screen
+		1kt per day, 75 micron solids, 30k people
+	30$ rain collection
+		50sqm per person, roof already exists
+	1k$ 400j/kg acid/base + ionexchange buffer
+Decision: Rain collection and osmosis 
+Reason: they compensate each other minuses, both are well tested
+
+2) Energy
+Sun 
+	10$ 1w/$ PV
+	100$ 0.1w/$ 10wHeat/$ evacuated tubes
+	1k$ 3w/$ 10wHeat/$ PV + mirrors + cooling
+	1k$ 0.3w/$ 3wHeat/$ through+mirrors+turbine
+	10k$ 0.1w/$ 3wHeat/$ algae grown for fuel
+	100k$ 1w/$ 3wHeat/$ tower+mirrors+turbine
+Wind
+	1k$ 0.3w/$ vertical axis windmill
+	1k$ 0.3w/$ drag-based windmill
+	1k$ 0.1w/$ drag-based vertical axis windmill
+	1k$ 1w/$ classical windmill
+	10k$ 3w/$ flying windmill
+Waves
+	1k$ 0.3w/$ pneumatic, moonpool + turbine
+	1k$ 0.3w/$ mechanical, bending joint
+Decision: PV, classical windmill, pneumatic
+Reason: well tested, diversity, capital cost
+
+3) Roads
+	1-10% of modules fully designated as roads
+	1-10% of surface of every module for roads
+Decision: designated modules
+Reason: more flexibility, same cost
+
+~~~~
