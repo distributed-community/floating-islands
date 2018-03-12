@@ -32,7 +32,7 @@ Independent decision that do not follow from previous ones are shown as separate
 Decision: Steel
 Reason: price, capital investments, time
 
-2)	Fasteners to join beams/slabs together
+2) Fasteners to join beams/slabs together
 	material*3 h $/m3 wedge locks
 	100$/m3 30h polyprop strapping
 	30$/m3 20h glass fiber strapping
@@ -40,7 +40,6 @@ Reason: price, capital investments, time
 	100$/m3 4h welding
 Decision: Weld
 Reason: Price, well tested, creep, time, hermetical seal
-
 Decision: bolts
 Reason: simplicity, creep, time
 
@@ -80,7 +79,6 @@ Reason: quick start, price, time, work, facilities
 		+best rebuild, +price, -waves
 Decision: sierpinski pyramid
 Reason: price, wave protection
-
 Decision: flat
 Reason: aethetics, rebuild
 
@@ -105,10 +103,8 @@ Reason: aethetics, rebuild
 		-30% population	and their relatives
 Decision: elevated structure
 Reason: price, rebuild, mobility
-
 Decision: separate fragmented truss breakwater
 Reason: aestetics, rebuild
-
 Decision: pneumatic + structure wall
 Reason: best protection, mobility
 
@@ -121,10 +117,8 @@ Reason: best protection, mobility
 		direct wave reaction, cost x1
 Decision: 45% moonpools and 55% surface floats
 Reason: price, static stability
-
 Decision: 100% moonpools with dynamic control
 Reason: best price, best wave cancellation
-
 Decision: 90% deep floats 10% surface floats
 Reason: best static stability
 
@@ -156,7 +150,6 @@ Sun
 	100k$ 1w/$ 3wHeat/$ tower+mirrors+turbine
 Wind
 	1k$ 0.3w/$ vertical axis windmill
-	1k$ 0.3w/$ drag-based windmill
 	1k$ 0.1w/$ drag-based vertical axis windmill
 	1k$ 1w/$ classical windmill
 	10k$ 3w/$ flying windmill
