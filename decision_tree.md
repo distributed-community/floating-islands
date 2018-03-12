@@ -110,17 +110,27 @@ Reason: best protection, mobility
 
 7) Floats type
 	hermetically sealed deep floats
-		No wave reaction, no wave hits, cost x3
-	moonpools
-		reverse wave reaction, no wave hits, cost x1
+		No wave reaction, no wave hits, cost x4
 	hermetically sealed surface floats
-		direct wave reaction, cost x1
-Decision: 45% moonpools and 55% surface floats
-Reason: price, static stability
-Decision: 100% moonpools with dynamic control
-Reason: best price, best wave cancellation
+		direct wave reaction, cost x2
+	deep moonpools
+		reverse wave reaction, no wave hits, cost x1
+	surface moonpools
+		weak direct wave reaction, cost x1
+Decision: 100% deep moonpools, with dynamic control
+Reason: best wave cancellation, rebuild
 Decision: 90% deep floats 10% surface floats
 Reason: best static stability
+Decision: 33% deep moonpools and 67% surface moonpools
+Reason: best price, static stability, rebuild, energy
+
+8) Landing gear
+	Paw: separate upside down truss pyramids and flat bottom floaters
+		+can use standard barrels	
+	Rib: united with upside down pyramids floaters
+		+price, +backup bouyoncy
+Decision: Paw initially, then rib 
+Reason: same height, but rib is cheaper because no need to double structure for floating and sitting support 
 
 ## Infrastructure
 
