@@ -132,6 +132,34 @@ Reason: best price, static stability, rebuild, energy
 Decision: Paw initially, then rib 
 Reason: same height, but rib is cheaper because no need to double structure for floating and sitting support 
 
+9) module shape, for non-flexible layer
+	rectangle
+		+0% sheeting, -20% strength, +0% usage
+	triangle 60*60*60*
+		-20% sheeting, +0% strength, -50% usage
+	hexagon prism
+		-20% sheeting, -40% strength, -20% usage
+	vertical cylinder
+		-40% sheeting, -100% strength, -30% usage
+	horizontal cylinder
+		-40% sheeting, -1000% strength, -40% usage
+Decision: rectangle
+Reason: best usage(for rectangle items) per strength and cost
+
+10) floaters shape with nose and tail, side cx
+	rectangle
+		+0% sheeting, -50% strength, cx=1.4
+	triangle 60*60*60*
+		-20% sheeting, -50% strength, cx=1
+	hexagon prism
+		-20% sheeting, -50% strength, cx=1
+	vertical cylinder
+		-40% sheeting, +0% strength, cx=0.8
+	horizontal cylinder
+		-40% sheeting, -30% strength, cx=0.3
+Decision: horizontal cylinder
+Reason: best cx(drag) for given strength and cost
+
 ## Infrastructure
 
 1) Potable water, capital investments(>3m3/mo) 
