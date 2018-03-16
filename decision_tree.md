@@ -160,6 +160,18 @@ Reason: best usage(for rectangle items) per strength and cost
 Decision: horizontal cylinder
 Reason: best cx(drag) for given strength and cost
 
+11) anchors
+	big chunk of concrete
+		30$/t, x1 weight to holding force, 10$/drop
+	steel anchor
+		100$/t, x4 weight to holding force, 10$/drop
+	piles
+		10$/t, x40 weight to holding force, 100$/drop
+	suction caissons
+		30$/t, x20 weight to holding force, 30$/drop
+Decision: suction caissons
+Reason: pile hammering is too expensive and prohibited in populated areas, concrete needs too heavy machinery and anchor is too expensive and also needs too much machinery
+
 ## Infrastructure
 
 1) Potable water, capital investments(>3m3/mo) 
