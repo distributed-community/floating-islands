@@ -75,8 +75,9 @@ current citizenship, in case something goes
 wrong, it will help you as a backup plan.
 There are many ways to solve problem of
 providing the needed help to the non-working
-population. This will have to be solved for
-each island as their people see fit. But
+population. We do not plan to make a country,
+so this will have to be solved for each island
+as their people see fit, per island. But
 private pension funds most likely will be
 happy to help you, even from other countries.
 
