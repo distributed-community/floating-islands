@@ -242,7 +242,8 @@ Reason: more flexibility, same cost
 		wire cost x0.2, death risk, cheap balancing
 	12v 0hz
 		wires cost x20, 10% compatibility
+		generator cost x1, invertors cost x20
 Decision: 220v 0hz
-Reason: low health risk, cheap network joining, reasonable compatibility, cheap generators
+Reason: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors
 
 ~~~~
