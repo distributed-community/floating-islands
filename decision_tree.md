@@ -172,6 +172,14 @@ Reason: best cx(drag) for given strength and cost
 Decision: suction caissons
 Reason: pile hammering is too expensive and prohibited in populated areas, concrete needs too heavy machinery and anchor is too expensive and also needs too much machinery
 
+12) angle sensors
+	pipe with fluid
+		-wave interaction causes bad readings
+	accelerometer
+		-a bit more expensive
+Decision: accelerometer
+Reason: increase in price is way smaller than saved cost of risk of bad reading from mechanical sources of angle data
+
 ## Infrastructure
 
 1) Potable water, capital investments(>3m3/mo) 
