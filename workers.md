@@ -9,8 +9,8 @@ communal: people who agree to do whatever community will decide is the best to b
 
 nickname (independent/communal) - country, project
 
-Amt921 (independent) - RF, organic rankin cycle
+Amt921 (independent) - RUS, organic rankin cycle
 Defragmented Panda (communal) - UK, floating module
-Leon (independent) - RF, twin hull boat
+Leon (independent) - RUS, twin hull boat
 
 ~~~~
