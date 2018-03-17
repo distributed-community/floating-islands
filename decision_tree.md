@@ -248,7 +248,7 @@ Reason: low health risk, cheap network joining, reasonable compatibility, cheap 
 
 ## Social
 
-Scarcity problem
+1) Scarcity problem
 	free trade with no restriction
 		-risk of hunger deaths and respect damage
 	obliged life support minimum + free trade
@@ -258,7 +258,7 @@ Scarcity problem
 Decision: life support minimum + free trade
 Reason: balance of damage to the economy and respect
 
-Growth balance
+2) population growth balance
 	free growth with no restriction
 		-may result in catastrophic collapse
 	free growth + restrictions by life support
@@ -269,5 +269,16 @@ Growth balance
 		-will lead to government
 Decision: free growth + life support
 Reason: balance of risk of catastrophe and economical growth
+
+3) population estimate/counting
+	optional cameras installed + payments for data
+		-some people dislike cameras
+	mandatoty chip injection on arrival
+		-a lot of people are against of
+			forced medical procedures
+	mandatory passport registration on arrival
+		-least effective +people are used to it
+Decision:
+Reason:
 
 ~~~~
