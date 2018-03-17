@@ -76,11 +76,10 @@ Reason: quick start, price, time, work, facilities
 	monolithic simple shape
 		+build, -logistics, -repair, -worst price
 	flat, modules with flexible joints
-		+best rebuild, +price, -waves
+		+best rebuild, -waves
+		-storm-proof 8-12 flex joints per module
 Decision: sierpinski pyramid
 Reason: price, wave protection
-Decision: flat
-Reason: aethetics, rebuild
 
 6) Wave protection
 	elevated sttucture with exposed trusses
