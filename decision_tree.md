@@ -215,4 +215,27 @@ Reason: well tested, diversity, capital cost
 Decision: designated modules
 Reason: more flexibility, same cost
 
+4) Electric network
+	220v 50hz
+		99% compatibility, generator cost x3
+	220v 0hz
+		80% compatibility, generator cost x1
+		cheap network joining/balancing
+	220v 400hz
+		10% compatibility, generator cost x2
+		needs minimal shielding of a wire from iron
+	220v 2khz
+		10% compatibility, generator cost x1
+		needs heavy shielding of a wire from iron
+	1kv 2khz
+		0.1% compatibility, generator cost x1
+		wire cost x0.2, death risk, needs shielding
+	1kv 0hz
+		0.1% compatibility, generator cost x1
+		wire cost x0.2, death risk, cheap balancing
+	12v 0hz
+		wires cost x20, 10% compatibility
+Decision: 220v 0hz
+Reason: low health risk, cheap network joining, reasonable compatibility, cheap generators
+
 ~~~~
