@@ -1,4 +1,3 @@
-~~~~
 # Open Floating Islands
 
 ## What`s this?
@@ -28,4 +27,3 @@ Section of the project dedicated for russian speaking people
 
 [Seasteading institute](https://www.seasteading.org/) is the most famous company in this area.
 But it\`s very closed organization. They planned to built first floating town in French Polynesia this (2018) year, but you can find only small document about environmental pollution and few strange renders.
-~~~~
