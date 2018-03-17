@@ -258,4 +258,16 @@ Scarcity problem
 Decision: life support minimum + free trade
 Reason: balance of damage to the economy and respect
 
+Growth balance
+	free growth with no restriction
+		-may result in catastrophic collapse
+	free growth + restrictions by life support
+		-minimal damage to the economy
+	fully planned growth
+		-will damage economy
+	polls, asking if growth is to be allowed
+		-will lead to government
+Decision: free growth + life support
+Reason: balance of risk of catastrophe and economical growth
+
 ~~~~
