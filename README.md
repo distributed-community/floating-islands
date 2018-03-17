@@ -23,7 +23,7 @@ A list of people who work on prototypes
 [Russian](https://github.com/distributed-community/floating-islands/blob/master/draft/ru/brainstorm.md)
 Section of the project dedicated for russian speaking people
 
-[Similar](https://github.com/distributed-community/floating-islands/wiki/Similar)
+[Similar](https://github.com/distributed-community/floating-islands/wiki/Similar-projects-review)
 A list of similar projects and technologies
 
 ## What`s the differnce from Seasteading?
