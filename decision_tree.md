@@ -246,4 +246,16 @@ Reason: more flexibility, same cost
 Decision: 220v 0hz
 Reason: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors
 
+## Social
+
+Scarcity problem
+	free trade with no restriction
+		-risk of hunger deaths and respect damage
+	obliged life support minimum + free trade
+		-minimum damage to the economy
+	fully planned economy
+		-significant damage to the economy
+Decision: life support minimum + free trade
+Reason: balance of damage to the economy and respect
+
 ~~~~
