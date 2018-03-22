@@ -248,6 +248,11 @@ Reason: more flexibility, same cost
 	12v 0hz
 		wires cost x20, 10% compatibility
 		generator cost x1, invertors cost x20
+	2.4 ghz
+		waveguides cost x10, 0% compatibility
+		rectifier x3, voltage converter x1
+		complex coupling, expensive vacuum/glass
+		high loss on every stage
 Decision: 220v 0hz
 Reason: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors
 
