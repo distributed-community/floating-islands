@@ -270,7 +270,24 @@ Reason: low health risk, cheap network joining, reasonable compatibility, cheap 
 Decision: 1kv 0hz
 Reason: cheap network joining, cheap generators, cheap invertors, cheap cables, moderate protection needed
 
-	
+6) electricsl meeter
+	clamp based resistive meeter
+		+cheap, -temp sensetive, costly install
+	hall based current meeter
+		+cheap install, +more precise
+	old style disk meeter
+		-expensive, +most precise
+Decidion: hall sensor
+Reason: total cost of install+device is lower. average precision is enough
+
+7) firefighting techniques
+	electrical fuse
+	electronical power disconnect
+	water sprays from utility water
+	water spray from separate system
+Decision: water spray from utility water + electrical fuse
+Reason: cheaper, comparable protection
+
 ## Social
 
 1) Scarcity problem
