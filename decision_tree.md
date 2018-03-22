@@ -225,6 +225,11 @@ Reason: more flexibility, same cost
 4) Electrical network short range (under 1 km)
 	220v 50hz
 		99% compatibility, generator cost x3
+	110v 0hz
+		3% compatibility, generator cost x1
+		cheap network joining/balancing
+		much safer than 220v but still not fully safe
+		invertors cost x2, wires cost x4
 	220v 0hz
 		80% compatibility, generator cost x1
 		cheap network joining/balancing
@@ -241,7 +246,7 @@ Reason: more flexibility, same cost
 		0.1% compatibility, generator cost x1
 		wire cost x0.04, death risk, cheap balancing
 	12v 0hz
-		wires cost x20, 10% compatibility
+		wires cost x400, 10% compatibility
 		generator cost x1, invertors cost x20
 Decision: 220v 0hz
 Reason: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors
