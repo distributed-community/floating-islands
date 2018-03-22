@@ -323,4 +323,16 @@ Reason: balance of risk of catastrophe and economical growth
 Decision:
 Reason:
 
+4) life support utilities minimum
+	force reduce power to 12v to 0.1A
+		-useless for most stuff
+		-expensive and inefficient invertors
+		-needs expensive batteries
+	force switch off after 10kwh/month
+		-large losses for unexpected cut off
+	give audio signal after 10kwh/month
+		-some loss for overusage
+Decision: audio signal after 10kwh/m
+Reason: loss from overusage is negligible compared to loss of broken devices and loss of data
+
 ~~~~
