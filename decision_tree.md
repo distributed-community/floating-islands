@@ -253,8 +253,8 @@ Reason: more flexibility, same cost
 		rectifier x3, voltage converter x1
 		complex coupling, expensive vacuum/glass
 		high loss on every stage
-Decision: 220v 0hz
-Reason: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors
+Decision: 220v 0hz + 220v 50hz
+Reason: 0hz: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors. 50hz: some devices need it anyway, so people will have to buy this invertor. using one invertor per block is cheaper than one invertor per home.
 
 5) Electrical network long range (1 km+)
 	220v 50hz
