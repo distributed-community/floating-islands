@@ -225,6 +225,8 @@ Reason: more flexibility, same cost
 4) Electrical network short range (under 1 km)
 	220v 50hz
 		99% compatibility, generator cost x3
+		when used on a large scale - has to be done 
+		in 3 phases to avoid damage to the generator
 	110v 0hz
 		3% compatibility, generator cost x1
 		cheap network joining/balancing
@@ -253,8 +255,8 @@ Reason: more flexibility, same cost
 		rectifier x3, voltage converter x1
 		complex coupling, expensive vacuum/glass
 		high loss on every stage
-Decision: 220v 0hz + 220v 50hz
-Reason: 0hz: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors. 50hz: some devices need it anyway, so people will have to buy this invertor. using one invertor per block is cheaper than one invertor per home.
+Decision: 220v 0hz
+Reason: 0hz: low health risk, cheap network joining, reasonable compatibility, cheap generators, cheap invertors, no need for multiphase.
 
 5) Electrical network long range (1 km+)
 	220v 50hz
@@ -274,10 +276,14 @@ Reason: 0hz: low health risk, cheap network joining, reasonable compatibility, c
 	1kv 0hz
 		0.1% compatibility, generator cost x1
 		wire cost x0.2, death risk, cheap balancing
+	5kv 0hz
+		10% compatibility, generator cost x1
+		wire cost x0.04, death risk, cheap balancing
+		can power microvaves, lamps, lasers directly
 	12v 0hz
 		wires cost x20, 10% compatibility
 		generator cost x1, invertors cost x20
-Decision: 1kv 0hz
+Decision: 5kv 0hz
 Reason: cheap network joining, cheap generators, cheap invertors, cheap cables, moderate protection needed
 
 6) electrical meeter
