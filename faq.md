@@ -107,6 +107,12 @@ bla-bla about modules
 
 ### No protection from hurricane
 
+## I have idea...
+
+### Let`s by old tanker or oil rig.
+
+### We can collect plastic rubbish in ocean and build modules from it
+
 
 ## Whats the difference from...
 
