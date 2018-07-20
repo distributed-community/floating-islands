@@ -11,7 +11,7 @@ Also based components mass production make them cheaper, and open standards help
 
 ## Navigation
 
-[FAQ](https://github.com/distributed-community/floating-islands/blob/master/faq.md)
+[FAQ](https://github.com/distributed-community/floating-islands/blob/master/FAQ.md)
 Questions and answers for newcommers
 
 [Decision tree](https://github.com/distributed-community/floating-islands/blob/master/decision_tree.md)
